@@ -1,0 +1,289 @@
+{
+    "Ini": {
+        "tipo": "Palabra Reservada",
+        "lineas": [
+            1
+        ]
+    },
+    "dec": {
+        "tipo": "Palabra Reservada",
+        "lineas": [
+            2
+        ]
+    },
+    "$x": {
+        "tipo": "Identificador",
+        "lineas": [
+            2,
+            10
+        ]
+    },
+    ",": {
+        "tipo": "Carácter",
+        "lineas": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    "$y": {
+        "tipo": "Identificador",
+        "lineas": [
+            2,
+            11
+        ]
+    },
+    "$z": {
+        "tipo": "Identificador",
+        "lineas": [
+            2,
+            12
+        ]
+    },
+    "$a": {
+        "tipo": "Identificador",
+        "lineas": [
+            2,
+            3,
+            11
+        ]
+    },
+    "$b": {
+        "tipo": "Identificador",
+        "lineas": [
+            2,
+            4,
+            11
+        ]
+    },
+    "$c": {
+        "tipo": "Identificador",
+        "lineas": [
+            2,
+            5,
+            11
+        ]
+    },
+    "$d": {
+        "tipo": "Identificador",
+        "lineas": [
+            2,
+            6,
+            11
+        ]
+    },
+    "$e": {
+        "tipo": "Identificador",
+        "lineas": [
+            2,
+            7,
+            11
+        ]
+    },
+    "$f": {
+        "tipo": "Identificador",
+        "lineas": [
+            2,
+            8,
+            12
+        ]
+    },
+    "$g": {
+        "tipo": "Identificador",
+        "lineas": [
+            2,
+            9,
+            12
+        ]
+    },
+    ";": {
+        "tipo": "Carácter",
+        "lineas": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    "=": {
+        "tipo": "Operador",
+        "lineas": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    "12.3": {
+        "tipo": "Carácter",
+        "lineas": [
+            3
+        ]
+    },
+    "5.7": {
+        "tipo": "Carácter",
+        "lineas": [
+            4
+        ]
+    },
+    "33": {
+        "tipo": "Carácter",
+        "lineas": [
+            5
+        ]
+    },
+    "0.3": {
+        "tipo": "Carácter",
+        "lineas": [
+            6
+        ]
+    },
+    "0.005": {
+        "tipo": "Carácter",
+        "lineas": [
+            7
+        ]
+    },
+    "5.321": {
+        "tipo": "Carácter",
+        "lineas": [
+            8
+        ]
+    },
+    "13.25": {
+        "tipo": "Carácter",
+        "lineas": [
+            9
+        ]
+    },
+    "13.5": {
+        "tipo": "Carácter",
+        "lineas": [
+            10
+        ]
+    },
+    "*": {
+        "tipo": "Operador",
+        "lineas": [
+            10,
+            10,
+            11,
+            11,
+            12,
+            12
+        ]
+    },
+    "12": {
+        "tipo": "Carácter",
+        "lineas": [
+            10,
+            10,
+            12
+        ]
+    },
+    "/": {
+        "tipo": "Operador",
+        "lineas": [
+            10,
+            11,
+            12,
+            12
+        ]
+    },
+    "2": {
+        "tipo": "Carácter",
+        "lineas": [
+            10,
+            12
+        ]
+    },
+    "5": {
+        "tipo": "Carácter",
+        "lineas": [
+            10,
+            11,
+            11,
+            12
+        ]
+    },
+    "+": {
+        "tipo": "Operador",
+        "lineas": [
+            10,
+            10,
+            10,
+            11,
+            11,
+            11,
+            12,
+            12
+        ]
+    },
+    "4": {
+        "tipo": "Carácter",
+        "lineas": [
+            10,
+            12
+        ]
+    },
+    "3": {
+        "tipo": "Carácter",
+        "lineas": [
+            10,
+            11,
+            12
+        ]
+    },
+    "-": {
+        "tipo": "Operador",
+        "lineas": [
+            10,
+            11,
+            12,
+            12
+        ]
+    },
+    "1": {
+        "tipo": "Carácter",
+        "lineas": [
+            10
+        ]
+    },
+    "2.5": {
+        "tipo": "Carácter",
+        "lineas": [
+            12
+        ]
+    },
+    "13": {
+        "tipo": "Carácter",
+        "lineas": [
+            12
+        ]
+    },
+    "end": {
+        "tipo": "Palabra Reservada",
+        "lineas": [
+            13
+        ]
+    }
+}
